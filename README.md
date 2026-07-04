@@ -1,6 +1,6 @@
 # Canteen Sales and Inventory System
 
-Java Swing + MySQL/XAMPP desktop system ready to open in Visual Studio Code.
+Java Swing + MySQL desktop system ready to open in Visual Studio Code.
 
 ## Included Functionalities
 
