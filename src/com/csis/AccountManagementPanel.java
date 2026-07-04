@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.sql.*;
 
+
 // The AccountManagementPanel class provides a user interface for administrators to manage user accounts in the system.
 public class AccountManagementPanel extends JPanel {
     private final UserSession session;
