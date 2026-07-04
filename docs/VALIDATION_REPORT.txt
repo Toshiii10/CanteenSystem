@@ -1,0 +1,21 @@
+GR 6: Canteen Sales and Inventory System - Validation Report
+Generated: 2026-05-22
+
+Package inventory:
+- 36 Java source files in src/com/csis
+- database/canteen_sales_inventory_system.sql
+- dist/CanteenSalesInventorySystem.jar
+- dist/CanteenSalesInventorySystem-SourceCode.jar
+- VS Code configuration, Windows/Linux/macOS build and run scripts
+
+Build checks completed:
+- All Java source files successfully compile with javac -source 8 -target 8.
+- Runnable application JAR created and major classes verified inside the JAR.
+- Source-code JAR created.
+- SQL inventory checked: 24 CREATE TABLE statements, 6 CREATE VIEW statements, 3 CREATE TRIGGER statements.
+- Customer access restrictions were implemented for payments and feedback.
+- Admin workflow includes account administration, POS, online-order processing, payment review, stock receiving and reports.
+
+Environment note:
+- A live MySQL/XAMPP server is not available inside the build environment, so database import/runtime transactions must be tested after SQL import on the user's computer.
+- MySQL Connector/J is required at runtime; the package includes a one-click downloader script for mysql-connector-j-8.4.0.jar.
