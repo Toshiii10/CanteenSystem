@@ -1,0 +1,1 @@
+MySQL Connector/J is distributed under its applicable Oracle/MySQL license. The included mysql-connector-j-8.4.0.jar is the external JDBC driver used for MySQL connectivity. See MySQL Connector/J documentation and package license notices for terms.

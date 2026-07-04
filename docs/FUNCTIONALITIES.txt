@@ -1,0 +1,29 @@
+GR 6: CANTEEN SALES AND INVENTORY SYSTEM - IMPLEMENTED MODULES
+
+ADMIN / STAFF PORTAL
+1. Authentication and role routing
+2. Dashboard counters for menu, orders, payments, low stock, expiry and sales
+3. POS cash sales with recipe-based ingredient deduction
+4. Online order confirmation, preparation, ready, completion and rejection workflow
+5. Payment verification/rejection with automatic balance recalculation trigger
+6. Customer and employee account management, activation and password reset
+7. Menu categories and products CRUD/Search
+8. Ingredient inventory, recipes, suppliers, batches, purchasing and receiving
+9. Stock movements and inventory adjustment tracking
+10. Promotions, expenses, announcements, feedback, messages, notifications and audit logs
+11. Reporting views and CSV export
+
+CUSTOMER / USER PORTAL
+1. Self-registration, login, profile update and password change
+2. Browse/search available menu and create multi-item pickup orders
+3. View order history and itemized purchase history
+4. Cancel eligible unpaid pending/confirmed orders
+5. Submit e-payment references/proof for administrator verification
+6. View announcements and notifications
+7. Send support messages to administration
+8. Submit feedback only for the user's own completed orders
+
+DATABASE OBJECTS
+- 24 tables
+- 6 reporting views
+- 3 database triggers
